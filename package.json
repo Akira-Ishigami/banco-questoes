@@ -1,0 +1,16 @@
+{
+  "name": "banco-de-questoes",
+  "version": "0.3.0",
+  "description": "Banco de questões escolar (PEI): cadastro com gabarito e habilidades BNCC, revisão pedagógica, geração e impressão de provas.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "reset": "node -e \"require('fs').rmSync('data',{recursive:true,force:true});console.log('Dados apagados. Rode npm run dev para recriar o banco com os exemplos.')\"",
+    "importar": "python tools/importar_smartprof.py"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

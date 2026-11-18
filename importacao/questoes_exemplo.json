@@ -1,0 +1,2837 @@
+{
+ "fonte": "Questões de exemplo",
+ "questoes": [
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Classes de palavras",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Na frase “O menino comprou uma bola nova”, a palavra “nova” é um:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP04"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "substantivo",
+     "correta": false
+    },
+    {
+     "texto": "adjetivo",
+     "correta": true
+    },
+    {
+     "texto": "verbo",
+     "correta": false
+    },
+    {
+     "texto": "advérbio",
+     "correta": false
+    },
+    {
+     "texto": "pronome",
+     "correta": false
+    }
+   ],
+   "resolucao": "“Nova” caracteriza o substantivo “bola”: é um adjetivo."
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Classes de palavras",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Qual das palavras abaixo é um verbo?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP04"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "mesa",
+     "correta": false
+    },
+    {
+     "texto": "bonito",
+     "correta": false
+    },
+    {
+     "texto": "correr",
+     "correta": true
+    },
+    {
+     "texto": "rapidamente",
+     "correta": false
+    },
+    {
+     "texto": "nós",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ortografia",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Assinale a palavra escrita corretamente.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67LP32"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "cachorro",
+     "correta": true
+    },
+    {
+     "texto": "caxorro",
+     "correta": false
+    },
+    {
+     "texto": "cachoro",
+     "correta": false
+    },
+    {
+     "texto": "caxoro",
+     "correta": false
+    },
+    {
+     "texto": "cachorru",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ortografia",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Em qual alternativa todas as palavras estão acentuadas corretamente?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67LP32"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "café, sofá, você",
+     "correta": true
+    },
+    {
+     "texto": "cafe, sofá, você",
+     "correta": false
+    },
+    {
+     "texto": "café, sofa, voce",
+     "correta": false
+    },
+    {
+     "texto": "cafe, sofa, você",
+     "correta": false
+    },
+    {
+     "texto": "café, sófa, você",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sujeito e predicado",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Na oração “Choveu muito ontem”, o sujeito é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP08"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "muito",
+     "correta": false
+    },
+    {
+     "texto": "ontem",
+     "correta": false
+    },
+    {
+     "texto": "oculto",
+     "correta": false
+    },
+    {
+     "texto": "inexistente",
+     "correta": true
+    },
+    {
+     "texto": "simples",
+     "correta": false
+    }
+   ],
+   "resolucao": "Verbos que indicam fenômenos da natureza não têm sujeito (oração sem sujeito)."
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Leia: “Lucas acordou cedo, tomou café às pressas e correu para o ponto de ônibus.” Pela atitude de Lucas, podemos concluir que ele:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67LP06"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "estava doente",
+     "correta": false
+    },
+    {
+     "texto": "estava com pressa",
+     "correta": true
+    },
+    {
+     "texto": "não gostava de café",
+     "correta": false
+    },
+    {
+     "texto": "perdeu o ônibus",
+     "correta": false
+    },
+    {
+     "texto": "estava de férias",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Classes de palavras",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Na frase “Eles chegaram cedo”, a palavra “eles” é um:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP04"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "pronome",
+     "correta": true
+    },
+    {
+     "texto": "substantivo",
+     "correta": false
+    },
+    {
+     "texto": "adjetivo",
+     "correta": false
+    },
+    {
+     "texto": "artigo",
+     "correta": false
+    },
+    {
+     "texto": "numeral",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Na frase “A notícia caiu como uma bomba na cidade”, a expressão “caiu como uma bomba” indica que a notícia:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67LP06"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "destruiu prédios",
+     "correta": false
+    },
+    {
+     "texto": "causou grande impacto",
+     "correta": true
+    },
+    {
+     "texto": "foi muito barulhenta",
+     "correta": false
+    },
+    {
+     "texto": "era sobre uma guerra",
+     "correta": false
+    },
+    {
+     "texto": "foi esquecida rapidamente",
+     "correta": false
+    }
+   ],
+   "resolucao": "É linguagem figurada (comparação): a notícia causou grande espanto."
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Sujeito e predicado",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Na oração “Maria e Joana estudaram juntas”, o sujeito é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP08"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "simples",
+     "correta": false
+    },
+    {
+     "texto": "composto",
+     "correta": true
+    },
+    {
+     "texto": "oculto",
+     "correta": false
+    },
+    {
+     "texto": "indeterminado",
+     "correta": false
+    },
+    {
+     "texto": "inexistente",
+     "correta": false
+    }
+   ],
+   "resolucao": "Há dois núcleos (Maria e Joana): sujeito composto."
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Ortografia",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Complete corretamente: “Ele não veio ______ estava doente.”</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67LP32"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "porque",
+     "correta": true
+    },
+    {
+     "texto": "por que",
+     "correta": false
+    },
+    {
+     "texto": "porquê",
+     "correta": false
+    },
+    {
+     "texto": "por quê",
+     "correta": false
+    },
+    {
+     "texto": "porquer",
+     "correta": false
+    }
+   ],
+   "resolucao": "“Porque” (junto e sem acento) introduz uma explicação/causa."
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Interpretação de texto",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Escreva um pequeno parágrafo (3 a 5 linhas) explicando a diferença entre linguagem formal e informal. Dê um exemplo de cada.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69LP55"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Linguagem formal segue a norma-padrão e é usada em situações oficiais (ex.: “Bom dia, senhor diretor”). A informal é espontânea, usada entre amigos e familiares (ex.: “E aí, beleza?”).</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Língua Portuguesa",
+   "assunto": "Classes de palavras",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Crie uma frase com pelo menos um substantivo, um adjetivo e um verbo. Depois, identifique cada um deles.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LP04"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "",
+   "linhas": 5
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Qual órgão bombeia o sangue para todo o corpo?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "pulmão",
+     "correta": false
+    },
+    {
+     "texto": "fígado",
+     "correta": false
+    },
+    {
+     "texto": "coração",
+     "correta": true
+    },
+    {
+     "texto": "rim",
+     "correta": false
+    },
+    {
+     "texto": "estômago",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Os pulmões fazem parte do sistema:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "digestório",
+     "correta": false
+    },
+    {
+     "texto": "respiratório",
+     "correta": true
+    },
+    {
+     "texto": "nervoso",
+     "correta": false
+    },
+    {
+     "texto": "urinário",
+     "correta": false
+    },
+    {
+     "texto": "esquelético",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>A digestão química dos alimentos começa:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "no estômago",
+     "correta": false
+    },
+    {
+     "texto": "na boca",
+     "correta": true
+    },
+    {
+     "texto": "no intestino grosso",
+     "correta": false
+    },
+    {
+     "texto": "no esôfago",
+     "correta": false
+    },
+    {
+     "texto": "no fígado",
+     "correta": false
+    }
+   ],
+   "resolucao": "A saliva contém amilase, que começa a digerir o amido ainda na boca."
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual é a principal função dos rins?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "produzir bile",
+     "correta": false
+    },
+    {
+     "texto": "filtrar o sangue e formar a urina",
+     "correta": true
+    },
+    {
+     "texto": "bombear o sangue",
+     "correta": false
+    },
+    {
+     "texto": "produzir o hormônio do crescimento",
+     "correta": false
+    },
+    {
+     "texto": "digerir proteínas",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Energia",
+   "serie": "8º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Qual destas é uma fonte de energia renovável?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI01"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "petróleo",
+     "correta": false
+    },
+    {
+     "texto": "carvão mineral",
+     "correta": false
+    },
+    {
+     "texto": "gás natural",
+     "correta": false
+    },
+    {
+     "texto": "energia solar",
+     "correta": true
+    },
+    {
+     "texto": "urânio",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Energia",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Uma usina hidrelétrica transforma principalmente a energia:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI01"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "química em elétrica",
+     "correta": false
+    },
+    {
+     "texto": "do movimento da água em elétrica",
+     "correta": true
+    },
+    {
+     "texto": "térmica em luminosa",
+     "correta": false
+    },
+    {
+     "texto": "nuclear em elétrica",
+     "correta": false
+    },
+    {
+     "texto": "elétrica em mecânica",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Reprodução",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Os gametas masculinos humanos são chamados de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI08"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "óvulos",
+     "correta": false
+    },
+    {
+     "texto": "espermatozoides",
+     "correta": true
+    },
+    {
+     "texto": "zigotos",
+     "correta": false
+    },
+    {
+     "texto": "embriões",
+     "correta": false
+    },
+    {
+     "texto": "ovários",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Reprodução",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>As mudanças do corpo na puberdade são causadas principalmente pela ação de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI08"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "vitaminas",
+     "correta": false
+    },
+    {
+     "texto": "hormônios",
+     "correta": true
+    },
+    {
+     "texto": "enzimas digestivas",
+     "correta": false
+    },
+    {
+     "texto": "anticorpos",
+     "correta": false
+    },
+    {
+     "texto": "sais minerais",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>As células do sangue responsáveis pela defesa do organismo são:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "hemácias",
+     "correta": false
+    },
+    {
+     "texto": "plaquetas",
+     "correta": false
+    },
+    {
+     "texto": "leucócitos",
+     "correta": true
+    },
+    {
+     "texto": "neurônios",
+     "correta": false
+    },
+    {
+     "texto": "células epiteliais",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Energia",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Ao esfregar as mãos em um dia frio, elas esquentam. Isso acontece porque a energia do movimento se transforma em:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI01"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "energia luminosa",
+     "correta": false
+    },
+    {
+     "texto": "energia química",
+     "correta": false
+    },
+    {
+     "texto": "energia térmica",
+     "correta": true
+    },
+    {
+     "texto": "energia elétrica",
+     "correta": false
+    },
+    {
+     "texto": "energia nuclear",
+     "correta": false
+    }
+   ],
+   "resolucao": "O atrito transforma energia cinética em energia térmica (calor)."
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Corpo humano",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Explique o caminho do ar desde o nariz até os pulmões, citando os órgãos envolvidos.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Nariz (fossas nasais) → faringe → laringe → traqueia → brônquios → bronquíolos → alvéolos pulmonares, onde ocorrem as trocas gasosas.</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Ciências",
+   "assunto": "Energia",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Cite duas vantagens e uma desvantagem da energia solar.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08CI01"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Vantagens: é renovável; não emite poluentes ao gerar energia; pode ser instalada nas casas. Desvantagens: depende da luz do sol; custo inicial alto; ocupa área.</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "História",
+   "assunto": "República",
+   "serie": "9º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Em que ano foi proclamada a República no Brasil?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI01"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "1822",
+     "correta": false
+    },
+    {
+     "texto": "1888",
+     "correta": false
+    },
+    {
+     "texto": "1889",
+     "correta": true
+    },
+    {
+     "texto": "1930",
+     "correta": false
+    },
+    {
+     "texto": "1964",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "República",
+   "serie": "9º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>O período conhecido como “Era Vargas” começou com a:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI01"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Proclamação da República",
+     "correta": false
+    },
+    {
+     "texto": "Revolução de 1930",
+     "correta": true
+    },
+    {
+     "texto": "Independência do Brasil",
+     "correta": false
+    },
+    {
+     "texto": "Abolição da escravatura",
+     "correta": false
+    },
+    {
+     "texto": "Guerra do Paraguai",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Guerras mundiais",
+   "serie": "9º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>A Primeira Guerra Mundial ocorreu entre:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI10"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "1914 e 1918",
+     "correta": true
+    },
+    {
+     "texto": "1939 e 1945",
+     "correta": false
+    },
+    {
+     "texto": "1500 e 1530",
+     "correta": false
+    },
+    {
+     "texto": "1889 e 1894",
+     "correta": false
+    },
+    {
+     "texto": "1964 e 1985",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Guerras mundiais",
+   "serie": "9º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual país foi governado por Adolf Hitler durante a Segunda Guerra Mundial?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI10"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Itália",
+     "correta": false
+    },
+    {
+     "texto": "Japão",
+     "correta": false
+    },
+    {
+     "texto": "Alemanha",
+     "correta": true
+    },
+    {
+     "texto": "Rússia",
+     "correta": false
+    },
+    {
+     "texto": "França",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Guerras mundiais",
+   "serie": "9º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>O ataque japonês a Pearl Harbor, em 1941, levou à entrada de qual país na Segunda Guerra Mundial?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI10"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Brasil",
+     "correta": false
+    },
+    {
+     "texto": "Estados Unidos",
+     "correta": true
+    },
+    {
+     "texto": "Alemanha",
+     "correta": false
+    },
+    {
+     "texto": "Inglaterra",
+     "correta": false
+    },
+    {
+     "texto": "China",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Ditadura militar",
+   "serie": "9º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>O regime militar no Brasil durou de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI19"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "1930 a 1945",
+     "correta": false
+    },
+    {
+     "texto": "1945 a 1964",
+     "correta": false
+    },
+    {
+     "texto": "1964 a 1985",
+     "correta": true
+    },
+    {
+     "texto": "1985 a 1990",
+     "correta": false
+    },
+    {
+     "texto": "1889 a 1930",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Ditadura militar",
+   "serie": "9º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>O movimento “Diretas Já” (1983–1984) reivindicava:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI19"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "a volta da monarquia",
+     "correta": false
+    },
+    {
+     "texto": "eleições diretas para presidente",
+     "correta": true
+    },
+    {
+     "texto": "o fim do voto feminino",
+     "correta": false
+    },
+    {
+     "texto": "a independência do Brasil",
+     "correta": false
+    },
+    {
+     "texto": "a construção de Brasília",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "República",
+   "serie": "9º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>A chamada “política do café com leite” referia-se à alternância no poder entre as elites de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI01"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Rio de Janeiro e Bahia",
+     "correta": false
+    },
+    {
+     "texto": "São Paulo e Minas Gerais",
+     "correta": true
+    },
+    {
+     "texto": "Pernambuco e Ceará",
+     "correta": false
+    },
+    {
+     "texto": "Rio Grande do Sul e Paraná",
+     "correta": false
+    },
+    {
+     "texto": "Goiás e Mato Grosso",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Guerras mundiais",
+   "serie": "9º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Explique o que foi a Guerra Fria e cite os dois países que lideraram os blocos rivais.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI10"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Disputa política, econômica, ideológica e militar, sem confronto direto entre as potências, entre o bloco capitalista (liderado pelos EUA) e o socialista (liderado pela URSS), de 1947 a 1991.</p>",
+   "linhas": 7
+  },
+  {
+   "disciplina": "História",
+   "assunto": "Ditadura militar",
+   "serie": "9º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Cite duas características do período da ditadura militar no Brasil.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09HI19"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Censura à imprensa e às artes; Atos Institucionais (como o AI-5); cassação de direitos políticos; perseguição a opositores; eleições indiretas para presidente.</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Cartografia",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Os quatro pontos cardeais são:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE08"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "norte, sul, leste e oeste",
+     "correta": true
+    },
+    {
+     "texto": "nordeste, noroeste, sudeste e sudoeste",
+     "correta": false
+    },
+    {
+     "texto": "direita, esquerda, frente e trás",
+     "correta": false
+    },
+    {
+     "texto": "equador, trópicos, polos e meridianos",
+     "correta": false
+    },
+    {
+     "texto": "latitude, longitude, altitude e escala",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Cartografia",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Em um mapa com escala 1:100.000, 1 cm no mapa corresponde a quanto na realidade?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE08"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "1 km",
+     "correta": true
+    },
+    {
+     "texto": "10 km",
+     "correta": false
+    },
+    {
+     "texto": "100 km",
+     "correta": false
+    },
+    {
+     "texto": "100 m",
+     "correta": false
+    },
+    {
+     "texto": "1.000 km",
+     "correta": false
+    }
+   ],
+   "resolucao": "100.000 cm = 1.000 m = 1 km."
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Clima",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>O instrumento usado para medir a temperatura do ar é o:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE03"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "barômetro",
+     "correta": false
+    },
+    {
+     "texto": "termômetro",
+     "correta": true
+    },
+    {
+     "texto": "pluviômetro",
+     "correta": false
+    },
+    {
+     "texto": "anemômetro",
+     "correta": false
+    },
+    {
+     "texto": "bússola",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Clima",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>A camada de ar que envolve a Terra é chamada de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE03"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "litosfera",
+     "correta": false
+    },
+    {
+     "texto": "hidrosfera",
+     "correta": false
+    },
+    {
+     "texto": "atmosfera",
+     "correta": true
+    },
+    {
+     "texto": "biosfera",
+     "correta": false
+    },
+    {
+     "texto": "crosta",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Relevo",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Uma forma de relevo plana, de baixa altitude e geralmente próxima a rios, é a:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE05"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "montanha",
+     "correta": false
+    },
+    {
+     "texto": "planalto",
+     "correta": false
+    },
+    {
+     "texto": "planície",
+     "correta": true
+    },
+    {
+     "texto": "serra",
+     "correta": false
+    },
+    {
+     "texto": "cordilheira",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Relevo",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Os agentes externos que modificam o relevo, como a chuva e o vento, provocam:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE05"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "terremotos",
+     "correta": false
+    },
+    {
+     "texto": "vulcanismo",
+     "correta": false
+    },
+    {
+     "texto": "erosão",
+     "correta": true
+    },
+    {
+     "texto": "tectonismo",
+     "correta": false
+    },
+    {
+     "texto": "falhas geológicas",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "População",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>O deslocamento de pessoas do campo para a cidade é chamado de:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE07"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "imigração",
+     "correta": false
+    },
+    {
+     "texto": "êxodo rural",
+     "correta": true
+    },
+    {
+     "texto": "emigração",
+     "correta": false
+    },
+    {
+     "texto": "transumância",
+     "correta": false
+    },
+    {
+     "texto": "migração pendular",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Geografia",
+   "assunto": "Cartografia",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Explique a diferença entre latitude e longitude.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06GE08"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Latitude é a distância, em graus, de um ponto até a Linha do Equador (norte ou sul, de 0° a 90°). Longitude é a distância até o Meridiano de Greenwich (leste ou oeste, de 0° a 180°).</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Potenciação",
+   "serie": "8º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Quanto é 2³?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08MA01"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "6",
+     "correta": false
+    },
+    {
+     "texto": "8",
+     "correta": true
+    },
+    {
+     "texto": "9",
+     "correta": false
+    },
+    {
+     "texto": "5",
+     "correta": false
+    },
+    {
+     "texto": "16",
+     "correta": false
+    }
+   ],
+   "resolucao": "2 × 2 × 2 = 8."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Potenciação",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual é o valor de 5⁰?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08MA01"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "0",
+     "correta": false
+    },
+    {
+     "texto": "5",
+     "correta": false
+    },
+    {
+     "texto": "1",
+     "correta": true
+    },
+    {
+     "texto": "50",
+     "correta": false
+    },
+    {
+     "texto": "não existe",
+     "correta": false
+    }
+   ],
+   "resolucao": "Todo número diferente de zero elevado a zero é igual a 1."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Geometria plana",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>A área de um quadrado de lado 7 cm é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08MA19"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "14 cm²",
+     "correta": false
+    },
+    {
+     "texto": "28 cm²",
+     "correta": false
+    },
+    {
+     "texto": "49 cm²",
+     "correta": true
+    },
+    {
+     "texto": "21 cm²",
+     "correta": false
+    },
+    {
+     "texto": "70 cm²",
+     "correta": false
+    }
+   ],
+   "resolucao": "7 × 7 = 49 cm²."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Equações do 1º grau",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Resolva 4x + 2 = 2x + 10. O valor de x é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF07MA18"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "2",
+     "correta": false
+    },
+    {
+     "texto": "3",
+     "correta": false
+    },
+    {
+     "texto": "4",
+     "correta": true
+    },
+    {
+     "texto": "6",
+     "correta": false
+    },
+    {
+     "texto": "8",
+     "correta": false
+    }
+   ],
+   "resolucao": "4x − 2x = 10 − 2 → 2x = 8 → x = 4."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Porcentagem",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>R$ 1.000,00 foram aplicados a juros simples de 5% ao mês, durante 3 meses. Qual foi o rendimento total?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08MA04"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "R$ 50,00",
+     "correta": false
+    },
+    {
+     "texto": "R$ 100,00",
+     "correta": false
+    },
+    {
+     "texto": "R$ 150,00",
+     "correta": true
+    },
+    {
+     "texto": "R$ 157,63",
+     "correta": false
+    },
+    {
+     "texto": "R$ 300,00",
+     "correta": false
+    }
+   ],
+   "resolucao": "5% de 1.000 = 50 por mês; 3 × 50 = 150."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Geometria plana",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Um triângulo retângulo tem catetos de 6 cm e 8 cm. Quanto mede a hipotenusa?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF09MA14"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "10 cm",
+     "correta": true
+    },
+    {
+     "texto": "12 cm",
+     "correta": false
+    },
+    {
+     "texto": "14 cm",
+     "correta": false
+    },
+    {
+     "texto": "48 cm",
+     "correta": false
+    },
+    {
+     "texto": "100 cm",
+     "correta": false
+    }
+   ],
+   "resolucao": "Pitágoras: h² = 36 + 64 = 100 → h = 10 cm."
+  },
+  {
+   "disciplina": "Matemática",
+   "assunto": "Potenciação",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Calcule (−3)² e −3². Explique por que os resultados são diferentes.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF08MA01"
+   ],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>(−3)² = (−3)·(−3) = 9; −3² = −(3·3) = −9. O sinal só faz parte da base quando está dentro dos parênteses.</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Greetings",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Qual expressão é usada para dizer “Bom dia” em inglês?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI01"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Good night",
+     "correta": false
+    },
+    {
+     "texto": "Good morning",
+     "correta": true
+    },
+    {
+     "texto": "Goodbye",
+     "correta": false
+    },
+    {
+     "texto": "Good afternoon",
+     "correta": false
+    },
+    {
+     "texto": "See you",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Vocabulary",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Como se diz “livro” em inglês?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI10"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "pen",
+     "correta": false
+    },
+    {
+     "texto": "table",
+     "correta": false
+    },
+    {
+     "texto": "book",
+     "correta": true
+    },
+    {
+     "texto": "door",
+     "correta": false
+    },
+    {
+     "texto": "bag",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Vocabulary",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>A cor “blue” significa:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI10"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "vermelho",
+     "correta": false
+    },
+    {
+     "texto": "verde",
+     "correta": false
+    },
+    {
+     "texto": "azul",
+     "correta": true
+    },
+    {
+     "texto": "amarelo",
+     "correta": false
+    },
+    {
+     "texto": "preto",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Verb to be",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Complete: “She ___ my teacher.”</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI19"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "am",
+     "correta": false
+    },
+    {
+     "texto": "is",
+     "correta": true
+    },
+    {
+     "texto": "are",
+     "correta": false
+    },
+    {
+     "texto": "be",
+     "correta": false
+    },
+    {
+     "texto": "were",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Verb to be",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Complete: “We ___ students.”</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI19"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "is",
+     "correta": false
+    },
+    {
+     "texto": "am",
+     "correta": false
+    },
+    {
+     "texto": "are",
+     "correta": true
+    },
+    {
+     "texto": "be",
+     "correta": false
+    },
+    {
+     "texto": "was",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Língua Inglesa",
+   "assunto": "Vocabulary",
+   "serie": "6º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>Qual palavra NÃO é um dia da semana?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF06LI10"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Monday",
+     "correta": false
+    },
+    {
+     "texto": "Friday",
+     "correta": false
+    },
+    {
+     "texto": "Sunday",
+     "correta": false
+    },
+    {
+     "texto": "January",
+     "correta": true
+    },
+    {
+     "texto": "Tuesday",
+     "correta": false
+    }
+   ],
+   "resolucao": "“January” é um mês (janeiro)."
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Citologia",
+   "serie": "1ª série EM",
+   "dificuldade": 1,
+   "enunciado": "<p>A estrutura que controla a entrada e a saída de substâncias da célula é a:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "parede celular",
+     "correta": false
+    },
+    {
+     "texto": "membrana plasmática",
+     "correta": true
+    },
+    {
+     "texto": "núcleo",
+     "correta": false
+    },
+    {
+     "texto": "mitocôndria",
+     "correta": false
+    },
+    {
+     "texto": "ribossomo",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Citologia",
+   "serie": "1ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual organela realiza a fotossíntese nas células vegetais?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "mitocôndria",
+     "correta": false
+    },
+    {
+     "texto": "cloroplasto",
+     "correta": true
+    },
+    {
+     "texto": "lisossomo",
+     "correta": false
+    },
+    {
+     "texto": "centríolo",
+     "correta": false
+    },
+    {
+     "texto": "vacúolo",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Citologia",
+   "serie": "1ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Organismos procariontes, como as bactérias, NÃO possuem:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "membrana plasmática",
+     "correta": false
+    },
+    {
+     "texto": "ribossomos",
+     "correta": false
+    },
+    {
+     "texto": "material genético",
+     "correta": false
+    },
+    {
+     "texto": "núcleo delimitado por carioteca",
+     "correta": true
+    },
+    {
+     "texto": "citoplasma",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Genética",
+   "serie": "1ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Nas células eucariontes, o DNA está localizado principalmente no:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "citoplasma",
+     "correta": false
+    },
+    {
+     "texto": "núcleo",
+     "correta": true
+    },
+    {
+     "texto": "ribossomo",
+     "correta": false
+    },
+    {
+     "texto": "complexo golgiense",
+     "correta": false
+    },
+    {
+     "texto": "lisossomo",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Genética",
+   "serie": "1ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Do cruzamento Aa × Aa, qual a proporção esperada de descendentes aa?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "0%",
+     "correta": false
+    },
+    {
+     "texto": "25%",
+     "correta": true
+    },
+    {
+     "texto": "50%",
+     "correta": false
+    },
+    {
+     "texto": "75%",
+     "correta": false
+    },
+    {
+     "texto": "100%",
+     "correta": false
+    }
+   ],
+   "resolucao": "Quadro de Punnett: AA, Aa, Aa, aa → 1/4 = 25%."
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Ecologia",
+   "serie": "1ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Em uma cadeia alimentar, as plantas são classificadas como:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "consumidores primários",
+     "correta": false
+    },
+    {
+     "texto": "decompositores",
+     "correta": false
+    },
+    {
+     "texto": "produtores",
+     "correta": true
+    },
+    {
+     "texto": "consumidores secundários",
+     "correta": false
+    },
+    {
+     "texto": "parasitas",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Biologia",
+   "assunto": "Ecologia",
+   "serie": "1ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Explique a importância dos decompositores para os ecossistemas.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>Fungos e bactérias decompõem a matéria orgânica morta e devolvem os nutrientes ao solo, que são reaproveitados pelos produtores (ciclagem de nutrientes).</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Cinemática",
+   "serie": "1ª série EM",
+   "dificuldade": 1,
+   "enunciado": "<p>Um carro percorre 120 km em 2 horas. Sua velocidade média é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "240 km/h",
+     "correta": false
+    },
+    {
+     "texto": "60 km/h",
+     "correta": true
+    },
+    {
+     "texto": "120 km/h",
+     "correta": false
+    },
+    {
+     "texto": "30 km/h",
+     "correta": false
+    },
+    {
+     "texto": "100 km/h",
+     "correta": false
+    }
+   ],
+   "resolucao": "120 ÷ 2 = 60 km/h."
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Cinemática",
+   "serie": "1ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Quanto vale 72 km/h em m/s?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "10 m/s",
+     "correta": false
+    },
+    {
+     "texto": "20 m/s",
+     "correta": true
+    },
+    {
+     "texto": "36 m/s",
+     "correta": false
+    },
+    {
+     "texto": "72 m/s",
+     "correta": false
+    },
+    {
+     "texto": "259 m/s",
+     "correta": false
+    }
+   ],
+   "resolucao": "Divide-se por 3,6: 72 ÷ 3,6 = 20 m/s."
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Leis de Newton",
+   "serie": "1ª série EM",
+   "dificuldade": 1,
+   "enunciado": "<p>A tendência de um corpo manter seu estado de repouso ou de movimento é explicada pela:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Lei da Inércia (1ª Lei de Newton)",
+     "correta": true
+    },
+    {
+     "texto": "Lei da Ação e Reação",
+     "correta": false
+    },
+    {
+     "texto": "Lei da Gravitação Universal",
+     "correta": false
+    },
+    {
+     "texto": "Lei de Ohm",
+     "correta": false
+    },
+    {
+     "texto": "Lei de Hooke",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Leis de Newton",
+   "serie": "1ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Uma força resultante de 20 N atua sobre um corpo de 4 kg. A aceleração do corpo é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "80 m/s²",
+     "correta": false
+    },
+    {
+     "texto": "5 m/s²",
+     "correta": true
+    },
+    {
+     "texto": "16 m/s²",
+     "correta": false
+    },
+    {
+     "texto": "24 m/s²",
+     "correta": false
+    },
+    {
+     "texto": "0,2 m/s²",
+     "correta": false
+    }
+   ],
+   "resolucao": "F = m·a → a = 20 ÷ 4 = 5 m/s²."
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Leis de Newton",
+   "serie": "1ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Ao empurrar uma parede, a pessoa recebe da parede uma força de mesma intensidade e sentido oposto. Isso ilustra a:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "1ª Lei de Newton",
+     "correta": false
+    },
+    {
+     "texto": "2ª Lei de Newton",
+     "correta": false
+    },
+    {
+     "texto": "3ª Lei de Newton (ação e reação)",
+     "correta": true
+    },
+    {
+     "texto": "Lei de Kepler",
+     "correta": false
+    },
+    {
+     "texto": "Princípio de Pascal",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Física",
+   "assunto": "Cinemática",
+   "serie": "1ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Um móvel parte do repouso com aceleração constante de 2 m/s². Calcule sua velocidade após 5 s e a distância percorrida nesse tempo.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 2,
+   "tipo": "discursiva",
+   "respostaEsperada": "<p>v = a·t = 2·5 = 10 m/s; d = a·t²/2 = 2·25/2 = 25 m.</p>",
+   "linhas": 6
+  },
+  {
+   "disciplina": "Química",
+   "assunto": "Soluções",
+   "serie": "2ª série EM",
+   "dificuldade": 1,
+   "enunciado": "<p>Em uma mistura de água com sal de cozinha, o sal é o:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "solvente",
+     "correta": false
+    },
+    {
+     "texto": "soluto",
+     "correta": true
+    },
+    {
+     "texto": "precipitado",
+     "correta": false
+    },
+    {
+     "texto": "catalisador",
+     "correta": false
+    },
+    {
+     "texto": "reagente limitante",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Química",
+   "assunto": "Soluções",
+   "serie": "2ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Uma solução contém 20 g de soluto em 500 mL de solução. Sua concentração é:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "10 g/L",
+     "correta": false
+    },
+    {
+     "texto": "20 g/L",
+     "correta": false
+    },
+    {
+     "texto": "40 g/L",
+     "correta": true
+    },
+    {
+     "texto": "100 g/L",
+     "correta": false
+    },
+    {
+     "texto": "0,04 g/L",
+     "correta": false
+    }
+   ],
+   "resolucao": "500 mL = 0,5 L; 20 ÷ 0,5 = 40 g/L."
+  },
+  {
+   "disciplina": "Química",
+   "assunto": "Estequiometria",
+   "serie": "2ª série EM",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual é a massa molar da água (H₂O)? Dados: H = 1; O = 16.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "17 g/mol",
+     "correta": false
+    },
+    {
+     "texto": "18 g/mol",
+     "correta": true
+    },
+    {
+     "texto": "32 g/mol",
+     "correta": false
+    },
+    {
+     "texto": "34 g/mol",
+     "correta": false
+    },
+    {
+     "texto": "16 g/mol",
+     "correta": false
+    }
+   ],
+   "resolucao": "2·1 + 16 = 18 g/mol."
+  },
+  {
+   "disciplina": "Química",
+   "assunto": "Estequiometria",
+   "serie": "2ª série EM",
+   "dificuldade": 3,
+   "enunciado": "<p>Na reação 2 H₂ + O₂ → 2 H₂O, quantos mols de água se formam a partir de 4 mols de H₂ (com O₂ suficiente)?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "2",
+     "correta": false
+    },
+    {
+     "texto": "4",
+     "correta": true
+    },
+    {
+     "texto": "6",
+     "correta": false
+    },
+    {
+     "texto": "8",
+     "correta": false
+    },
+    {
+     "texto": "1",
+     "correta": false
+    }
+   ],
+   "resolucao": "A proporção H₂ : H₂O é 2 : 2 = 1 : 1."
+  },
+  {
+   "disciplina": "Educação Física",
+   "assunto": "Futsal",
+   "serie": "8º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Quantos jogadores de cada equipe ficam em quadra no futsal, contando o goleiro?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67EF03"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "5",
+     "correta": true
+    },
+    {
+     "texto": "6",
+     "correta": false
+    },
+    {
+     "texto": "7",
+     "correta": false
+    },
+    {
+     "texto": "11",
+     "correta": false
+    },
+    {
+     "texto": "4",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Educação Física",
+   "assunto": "Atletismo",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual prova do atletismo combina corrida com saltos sobre obstáculos?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF67EF03"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "maratona",
+     "correta": false
+    },
+    {
+     "texto": "corrida com barreiras",
+     "correta": true
+    },
+    {
+     "texto": "arremesso de peso",
+     "correta": false
+    },
+    {
+     "texto": "salto em altura",
+     "correta": false
+    },
+    {
+     "texto": "lançamento de dardo",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Educação Física",
+   "assunto": "Saúde e nutrição",
+   "serie": "8º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Antes de praticar exercícios intensos, é importante:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF89EF07"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "comer bastante",
+     "correta": false
+    },
+    {
+     "texto": "fazer aquecimento",
+     "correta": true
+    },
+    {
+     "texto": "ficar parado",
+     "correta": false
+    },
+    {
+     "texto": "tomar refrigerante",
+     "correta": false
+    },
+    {
+     "texto": "dormir",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Educação Física",
+   "assunto": "Voleibol",
+   "serie": "8º ano EF",
+   "dificuldade": 3,
+   "enunciado": "<p>No voleibol, o jogador especialista em defesa, que usa camisa de cor diferente da equipe, é o:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF89EF01"
+   ],
+   "valor": 1.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "levantador",
+     "correta": false
+    },
+    {
+     "texto": "oposto",
+     "correta": false
+    },
+    {
+     "texto": "central",
+     "correta": false
+    },
+    {
+     "texto": "líbero",
+     "correta": true
+    },
+    {
+     "texto": "ponteiro",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Cores",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>Quanto à combinação: complementares, concordantes, acordantes e discordantes, monocromáticas, policromáticas e as diferentes harmonias obtidas a partir de combinações com o disco cromático: assinale a alternativa correta dizendo quais são as cores primárias.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR04"
+   ],
+   "valor": 2,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Vermelho, amarelo e azul",
+     "correta": true
+    },
+    {
+     "texto": "Roxo ou púrpura",
+     "correta": false
+    },
+    {
+     "texto": "Amarelo-esverdeado, limão",
+     "correta": false
+    },
+    {
+     "texto": "Azul-esverdeado, turquesa",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Cores",
+   "serie": "6º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>As cores podem ser classificadas em diferentes categorias. Assinale a alternativa correta dizendo como é a classificação mais comum das cores.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR04"
+   ],
+   "valor": 2,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Cores primárias, secundárias e terciárias",
+     "correta": true
+    },
+    {
+     "texto": "Cromáticas e acromáticas",
+     "correta": false
+    },
+    {
+     "texto": "Complementares e concordantes",
+     "correta": false
+    },
+    {
+     "texto": "Derivadas do marrom",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Cores",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>As misturas básicas entre cores primárias resultam em cores secundárias. Assinale a alternativa correta com as cores secundárias.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR04"
+   ],
+   "valor": 2,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Amarelo-alaranjado",
+     "correta": false
+    },
+    {
+     "texto": "Laranja, verde e roxo (ou púrpura)",
+     "correta": true
+    },
+    {
+     "texto": "Vermelho-arroxeado",
+     "correta": false
+    },
+    {
+     "texto": "Violeta-azulado",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Cores",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Harmonia é a combinação entre duas ou mais cores, e há muitas maneiras de combinar as cores. Assinale a alternativa correta sobre a MONOCROMIA.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF15AR02"
+   ],
+   "valor": 2,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "É uma harmonia que conseguimos quando utilizamos somente uma cor com suas variações de tons.",
+     "correta": true
+    },
+    {
+     "texto": "É a combinação entre duas ou mais cores.",
+     "correta": false
+    },
+    {
+     "texto": "Há muitas maneiras de combinar as cores.",
+     "correta": false
+    },
+    {
+     "texto": "A monocromia, a isocromia e a policromia.",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Cores",
+   "serie": "6º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Há muitas maneiras de combinar as cores. Assinale a alternativa correta sobre a harmonia de POLICROMIA.</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF15AR02"
+   ],
+   "valor": 2,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Uma só cor, chamada de tom sobre tom.",
+     "correta": false
+    },
+    {
+     "texto": "É a harmonia conseguida através de várias cores.",
+     "correta": true
+    },
+    {
+     "texto": "São colorações obtidas a partir de uma só cor.",
+     "correta": false
+    },
+    {
+     "texto": "É a harmonia conseguida através de uma cor e suas matrizes.",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Artes visuais",
+   "serie": "7º ano EF",
+   "dificuldade": 1,
+   "enunciado": "<p>As cores primárias são:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR04"
+   ],
+   "valor": 0.5,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "azul, amarelo e vermelho",
+     "correta": true
+    },
+    {
+     "texto": "verde, laranja e roxo",
+     "correta": false
+    },
+    {
+     "texto": "preto, branco e cinza",
+     "correta": false
+    },
+    {
+     "texto": "rosa, marrom e bege",
+     "correta": false
+    },
+    {
+     "texto": "verde, azul e branco",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Artes visuais",
+   "serie": "7º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>A pintora brasileira Tarsila do Amaral é autora da obra:</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR01"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "Abaporu",
+     "correta": true
+    },
+    {
+     "texto": "Mona Lisa",
+     "correta": false
+    },
+    {
+     "texto": "Guernica",
+     "correta": false
+    },
+    {
+     "texto": "A Noite Estrelada",
+     "correta": false
+    },
+    {
+     "texto": "O Grito",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  },
+  {
+   "disciplina": "Arte",
+   "assunto": "Música",
+   "serie": "7º ano EF",
+   "dificuldade": 2,
+   "enunciado": "<p>Qual instrumento musical possui teclas brancas e pretas?</p>",
+   "origem": "Autoral",
+   "fonte": "Exemplo",
+   "bncc": [
+    "EF69AR16"
+   ],
+   "valor": 1,
+   "tipo": "objetiva",
+   "alternativas": [
+    {
+     "texto": "violão",
+     "correta": false
+    },
+    {
+     "texto": "piano",
+     "correta": true
+    },
+    {
+     "texto": "flauta",
+     "correta": false
+    },
+    {
+     "texto": "tambor",
+     "correta": false
+    },
+    {
+     "texto": "violino",
+     "correta": false
+    }
+   ],
+   "resolucao": ""
+  }
+ ]
+}

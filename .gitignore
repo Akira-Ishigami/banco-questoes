@@ -1,0 +1,14 @@
+# dados do sistema (usuários, senhas criptografadas, questões e provas da escola)
+data/
+*.tmp
+
+# material licenciado (pendrive SmartProfessor) — não publicar
+questoes_smartprof*.json
+
+# ambiente
+node_modules/
+__pycache__/
+*.log
+.env
+.DS_Store
+Thumbs.db
